@@ -1,4 +1,4 @@
-# KFC Global Sales Analysis Dashboard (Power BI)
+# KFC Global Bussiness Insights (Power BI)
 
 ## Project Overview
 This project presents an interactive **Power BI dashboard** analyzing global sales performance of KFC across multiple countries and branches. The dashboard provides insights into sales trends, customer distribution, marketing efficiency, and branch-level performance.
